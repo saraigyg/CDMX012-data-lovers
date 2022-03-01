@@ -1,5 +1,5 @@
 import data from './data/ghibli/ghibli.js';
-import Chart from '../node_modules/chart.js';
+//import Chart from '../node_modules/chart.js';
 
 
 import {
